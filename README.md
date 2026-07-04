@@ -22,4 +22,3 @@ python app.py
 
 ## License
 
-MIT
